@@ -1,1 +1,1 @@
-[![Shuyue's github stats](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=radical)](https://shuyuej.com/)
+[![Shuyue's github stats](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india)](https://shuyuej.com/)

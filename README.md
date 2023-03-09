@@ -6,7 +6,7 @@
 - [Medical Named Entity Recognition](https://github.com/SuperBruceJia/MedicalNER)
 - [Medical Concept Mapping](https://github.com/SuperBruceJia/Medical-Concept-Mapping)
 - [Deploy PyTorch NER Model with Flask and Docker as Web App](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp)
-- [Dynamic Webs crawlering in Python](https://github.com/SuperBruceJia/dynamic-web-crawlering-python)
+- [Dynamic Webs Crawlering in Python](https://github.com/SuperBruceJia/dynamic-web-crawlering-python)
 
 **City University of Hong Kong**:
 - [Non-local Modeling for Image Quality Assessment](https://github.com/SuperBruceJia/NLNet-IQA)

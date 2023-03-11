@@ -21,3 +21,4 @@
 - [Download Papers through Terminal based on Sci-Hub](https://github.com/SuperBruceJia/Sci-Hub-Paper-Download-shell)
 - [Download Google Scholar Citation Papers](https://github.com/SuperBruceJia/Google-Scholar-Citations-Download)
 - [Awesome Poster Presentation](https://github.com/SuperBruceJia/Poster_Template)
+- [CVPR LaTeX Template](https://github.com/SuperBruceJia/CVPR-LaTeX-Paper-Template)

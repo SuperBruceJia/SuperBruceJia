@@ -4,6 +4,9 @@
 <!-- [![Shuyue's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india)](https://shuyuej.com/) -->
 
 **Fast access to some projects**<br>
+**Boston University**:
+- [Awesome-LLM-Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
+
 **Philips Research**:
 - [Medical Named Entity Recognition](https://github.com/SuperBruceJia/MedicalNER)
 - [Medical Concept Mapping](https://github.com/SuperBruceJia/Medical-Concept-Mapping)

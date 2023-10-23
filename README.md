@@ -6,6 +6,7 @@
 **Fast access to some projects**<br>
 **Boston University**:
 - [Awesome-LLM-Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
+- [Awesome-Semantic-Textual-Similarity](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
 
 **Philips Research**:
 - [Medical Named Entity Recognition](https://github.com/SuperBruceJia/MedicalNER)

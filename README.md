@@ -25,6 +25,7 @@
 - [Sonar Image Segmentation via Entropy Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)
 
 **Others**:
+- [Python Programming Standards (Tencent, in Chinese)](https://github.com/SuperBruceJia/paper-reading/tree/master/Programming-Standards/python)
 - [Download Papers through Terminal based on Sci-Hub](https://github.com/SuperBruceJia/Sci-Hub-Paper-Download-shell)
 - [Download Google Scholar Citation Papers](https://github.com/SuperBruceJia/Google-Scholar-Citations-Download)
 - [Awesome Poster Presentation](https://github.com/SuperBruceJia/Poster_Template)

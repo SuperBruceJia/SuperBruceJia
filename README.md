@@ -26,6 +26,7 @@
 
 **Others**:
 - [Python Programming Standards (Tencent, in Chinese)](https://github.com/SuperBruceJia/paper-reading/tree/master/Programming-Standards/python)
+- [Python Codes Style Checking (by `flake8`)](https://github.com/SuperBruceJia/paper-reading/tree/master/Programming-Standards/python#:~:text=%E5%B7%A5%E5%85%B7%E4%B8%8E%E9%85%8D%E7%BD%AE-,flake8,-flake8%20%E6%98%AF%E4%B8%80%E4%B8%AA)
 - [Download Papers through Terminal based on Sci-Hub](https://github.com/SuperBruceJia/Sci-Hub-Paper-Download-shell)
 - [Download Google Scholar Citation Papers](https://github.com/SuperBruceJia/Google-Scholar-Citations-Download)
 - [Awesome Poster Presentation](https://github.com/SuperBruceJia/Poster_Template)

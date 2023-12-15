@@ -11,7 +11,7 @@
 
 **City University of Hong Kong**:
 - [Non-local Modeling for Image Quality Assessment](https://github.com/SuperBruceJia/NLNet-IQA)
-- [CAIQUE IQA](https://github.com/SuperBruceJia/CAIQUE-IQA)
+- [Context-aware Non-local Compensation for Image Quality Assessment](https://github.com/SuperBruceJia/CAIQUE-IQA)
 
 **Northeast Electric Power University**:
 - [EEG Deep Learning Library](https://github.com/SuperBruceJia/EEG-DL)

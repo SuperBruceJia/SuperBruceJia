@@ -5,7 +5,7 @@
 
 **Fast access to some projects**<br>
 **Boston University**:
-- [PromptCraft](https://github.com/SuperBruceJia/PromptCraft)
+- [PromptCraft](https://github.com/SuperBruceJia/promptcraft)
 - [Awesome-LLM-Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - [Awesome-Semantic-Textual-Similarity](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
 

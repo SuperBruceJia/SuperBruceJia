@@ -5,7 +5,7 @@
 
 **Fast access to some projects**<br>
 **Boston University**:
-- [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the published [PyPI package](https://pypi.org/project/promptcraft/)
+- [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the published [PyPI Package](https://pypi.org/project/promptcraft/)
 - [Awesome-LLM-Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - [Awesome-Semantic-Textual-Similarity](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
 

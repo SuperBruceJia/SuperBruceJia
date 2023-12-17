@@ -10,6 +10,8 @@
 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - [Awesome Semantic Textual Similarity (STS)](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
 
+  **Note**: The code's style is being checked by [Flake8](https://flake8.pycqa.org/en/latest/).
+
 **City University of Hong Kong**:
 - [Non-local Modeling for Image Quality Assessment](https://github.com/SuperBruceJia/NLNet-IQA)
 - [Context-aware Non-local Compensation for Image Quality Assessment](https://github.com/SuperBruceJia/CAIQUE-IQA)

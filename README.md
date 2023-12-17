@@ -4,8 +4,7 @@
 <!-- [![Shuyue's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india)](https://shuyuej.com/) -->
 
 **Fast access to some projects**<br>
-**Boston University**:
-**Note**: The code's style is being checked by [Flake8](https://flake8.pycqa.org/en/latest/).
+**Boston University**: The code's style is being checked by [Flake8](https://flake8.pycqa.org/en/latest/).
 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (_Under Preparation_)
 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)

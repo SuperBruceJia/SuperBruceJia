@@ -1,10 +1,10 @@
-# **What is the most surprising finding in your research?**
+# What is the most surprising finding in your research?
+[![Shuyue's github stats](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india)](https://shuyuej.com)
 
-[![Shuyue's github stats](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india)](https://shuyuej.com/)
-<!-- [![Shuyue's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india)](https://shuyuej.com/) -->
-
-**Fast access to some projects**<br>
-**Boston University**: The code's style is being checked by [Flake8](https://flake8.pycqa.org/en/latest/).
+## Fast access to some projects
+Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), and the trainer models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej).\
+<br>
+**Boston University**: The code's style is being checked by [Flake8](https://flake8.pycqa.org/en/latest).
 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - [Awesome Semantic Textual Similarity (STS)](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)

@@ -1,5 +1,6 @@
 # What is the most surprising finding in your research?
 [![Shuyue's github stats](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india)](https://shuyuej.com)
+![Shuyue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)
 
 ## Fast access to some projects
 Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), and the trainer models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej).\

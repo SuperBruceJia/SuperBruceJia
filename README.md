@@ -1,5 +1,8 @@
 # What is the most surprising finding in your research?
-[![Shuyue's github stats](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india)](https://shuyuej.com)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true">
+<img align="right" src="https://streak-stats.demolab.com/?user=SuperBruceJia&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500">
+
 [![Shuyue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)](https://shuyuej.com)
 
 ## Fast access to some projects

@@ -15,7 +15,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 - [Context-aware Non-local Compensation for Image Quality Assessment](https://github.com/SuperBruceJia/CAIQUE-IQA)
 
 **Northeast Electric Power University**:
-- [EEG Deep Learning Library](https://github.com/SuperBruceJia/EEG-DL)
+- 🔥 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 - [EEG Deep Learning Library](https://github.com/SuperBruceJia/EEG-DL)
 - [EEG Motor Imagery Signals Classification via CNN](https://github.com/SuperBruceJia/EEG-Motor-Imagery-Classification-CNNs-TensorFlow)
 - [Sonar Image Segmentation via Entropy Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)
 

@@ -6,7 +6,7 @@
 [![Shuyue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)
 
 ## Fast access to some projects
-Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), and the trainer models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej).\
+Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), and the trained models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej).\
 <br>
 **Boston University**:
 - 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency), still under preparation)

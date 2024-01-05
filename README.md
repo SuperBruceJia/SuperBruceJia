@@ -12,6 +12,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 **Boston University**:
 - 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency), still under preparation)
 - 🔨 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
+- [CoEvolve LLMs: Co-evolution of LLMs via Adversarial Learning](https://github.com/SuperBruceJia/Co-Evolve-LLMs)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Semantic Textual Similarity (STS)](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
 

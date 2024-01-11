@@ -20,13 +20,13 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Semantic Textual Similarity (STS)](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
 
 **City University of Hong Kong**:
-- [Non-local Modeling for Image Quality Assessment](https://github.com/SuperBruceJia/NLNet-IQA)
-- [Context-aware Non-local Compensation for Image Quality Assessment](https://github.com/SuperBruceJia/CAIQUE-IQA)
+- 𝐍𝐨𝐧-𝐥𝐨𝐜𝐚𝐥 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 - [Non-local Modeling for Image Quality Assessment](https://github.com/SuperBruceJia/NLNet-IQA)
+- 𝐍𝐨𝐧-𝐥𝐨𝐜𝐚𝐥 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 - [Context-aware Non-local Compensation for Image Quality Assessment](https://github.com/SuperBruceJia/CAIQUE-IQA)
 
 **Northeast Electric Power University**:
 - 🔥 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 - [EEG Deep Learning Library](https://github.com/SuperBruceJia/EEG-DL)
-- [EEG Motor Imagery Signals Classification via CNN](https://github.com/SuperBruceJia/EEG-Motor-Imagery-Classification-CNNs-TensorFlow)
-- [Sonar Image Segmentation via Entropy Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)
+- 𝐒𝐜𝐨𝐮𝐭 𝐄𝐒𝐈 𝐚𝐧𝐝 𝐂𝐍𝐍 - [EEG Motor Imagery Signals Classification via CNN](https://github.com/SuperBruceJia/EEG-Motor-Imagery-Classification-CNNs-TensorFlow)
+- 𝐒𝐨𝐧𝐚𝐫 𝐈𝐦𝐚𝐠𝐞 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 - [Sonar Image Segmentation via Entropy Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)
 
 **Philips Research**:
 - [Medical Named Entity Recognition](https://github.com/SuperBruceJia/MedicalNER)

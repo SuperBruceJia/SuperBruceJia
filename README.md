@@ -6,7 +6,7 @@
 [![Shuyue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)
 
 ## Fast access to some projects
-Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), the trained models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej), and some of my applied research on Vision and Language will be developed as Web or Android/IOS mobile apps.
+Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), the trained models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej), and some of my applied research on Vision and Language will be developed as Web or Android/iOS mobile apps.
 <be>
 
 **Boston University**:

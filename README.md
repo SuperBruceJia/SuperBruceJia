@@ -10,7 +10,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 <be>
 
 **Boston University**:
-- 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency), still under preparation)
+- 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency))
 - 🔨 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
 - 𝐋𝐋𝐌-𝐫𝐞𝐥𝐚𝐭𝐞𝐝 - [CoEvolve LLMs: Co-evolution of LLMs via Adversarial Learning](https://github.com/SuperBruceJia/Co-Evolve-LLMs)
 - 𝐋𝐋𝐌-𝐫𝐞𝐥𝐚𝐭𝐞𝐝 - [Bi-Directional Chain-of-Thought (CoT) Prompting](https://github.com/SuperBruceJia/Bi-Directional-CoT)

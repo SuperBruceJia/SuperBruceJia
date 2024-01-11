@@ -9,7 +9,8 @@
 Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), the trained models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej), and some of my applied research on Vision and Language will be developed as Web or Android/iOS mobile apps.
 <be>
 
-**Boston University**:
+**Boston University**:\
+***Topic 1: Large Language Models (LLMs)***:
 - 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency))
 - 🔨 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
@@ -21,6 +22,8 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
   |     𝗕𝗶𝗱𝗶𝗿𝗲𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗼𝗧       |                   [Bi-Directional Chain-of-Thought (CoT) Prompting](https://github.com/SuperBruceJia/Bi-Directional-CoT)                           |
   | 𝗣𝗿𝗼𝗺𝗽𝘁 𝗖𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝗰𝘆 𝗮𝗻𝗱 𝗦𝗲𝗹𝗳-𝗖𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝗰𝘆 |                          [Prompt Consistency (PC)](https://github.com/SuperBruceJia/PromptConsistency)                                         |
   | 𝗙𝗶𝗻𝗲-𝗧𝘂𝗻𝗶𝗻𝗴 𝗟𝗟𝗠𝘀 | [Fine-Tune LLaMA2 (7B) with LoRA Adapter on MetaMath](https://github.com/SuperBruceJia/MetaMath-Fine-Tune-with-LoRA) and <br> [The Trained LoRA models for inference on 🤗 Hugging Face](https://huggingface.co/shuyuej/metamath_lora_llama2_7b_3_epoch) |
+
+***Topic 2: AI for Medicine and Healthcare***:
 
 **City University of Hong Kong**:
 - 𝐍𝐨𝐧-𝐥𝐨𝐜𝐚𝐥 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 - [Non-local Modeling for Image Quality Assessment](https://github.com/SuperBruceJia/NLNet-IQA)

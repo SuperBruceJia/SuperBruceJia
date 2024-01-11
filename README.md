@@ -14,6 +14,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 - 🔨 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
 - [CoEvolve LLMs: Co-evolution of LLMs via Adversarial Learning](https://github.com/SuperBruceJia/Co-Evolve-LLMs)
 - [Bi-Directional Chain-of-Thought (CoT) Prompting](https://github.com/SuperBruceJia/Bi-Directional-CoT)
+- [Prompt Consistency](https://github.com/SuperBruceJia/PromptConsistency)
 - [Fine-Tune MetaMath with LLaMA2 and LoRA](https://github.com/SuperBruceJia/MetaMath-Fine-Tune-with-LoRA) and [The Trained LoRA models for inference on 🤗 Hugging Face](https://huggingface.co/shuyuej/metamath_lora_llama2_7b_3_epoch)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Semantic Textual Similarity (STS)](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)

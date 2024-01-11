@@ -17,9 +17,9 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 
   |       LLMs Research Topic       |                                       Description                                       |
   |:------------------------------:|:----------------------------------------------------------------------------------------:|
-  | 𝘓𝘓𝘔𝘴 𝘌𝘷𝘰𝘭𝘶𝘵𝘪𝘰𝘯 𝘣𝘺 𝘈𝘥𝘷𝘦𝘳𝘴𝘢𝘳𝘪𝘢𝘭 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 |   CoEvolve LLMs: Co-evolution of LLMs via Adversarial Learning                                |
-  |     𝘉𝘪𝘥𝘪𝘳𝘦𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘊𝘰𝘛       |                   Bi-Directional Chain-of-Thought (CoT) Prompting                           |
-  | 𝘗𝘳𝘰𝘮𝘱𝘵 𝘊𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘤𝘺 𝘢𝘯𝘥 𝘚𝘦𝘭𝘧-𝘊𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘤𝘺 𝘰𝘧 𝘓𝘓𝘔𝘴 |                          Prompt Consistency (PC)                                         |
+  | 𝘓𝘓𝘔𝘴 𝘌𝘷𝘰𝘭𝘶𝘵𝘪𝘰𝘯 𝘣𝘺 𝘈𝘥𝘷𝘦𝘳𝘴𝘢𝘳𝘪𝘢𝘭 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 |   [CoEvolve LLMs: Co-evolution of LLMs via Adversarial Learning](https://github.com/SuperBruceJia/Co-Evolve-LLMs)                                |
+  |     𝘉𝘪𝘥𝘪𝘳𝘦𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘊𝘰𝘛       |                   [Bi-Directional Chain-of-Thought (CoT) Prompting](https://github.com/SuperBruceJia/Bi-Directional-CoT)                           |
+  | 𝘗𝘳𝘰𝘮𝘱𝘵 𝘊𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘤𝘺 𝘢𝘯𝘥 𝘚𝘦𝘭𝘧-𝘊𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘤𝘺 𝘰𝘧 𝘓𝘓𝘔𝘴 |                          [Prompt Consistency (PC)](https://github.com/SuperBruceJia/PromptConsistency)                                         |
   | 𝘍𝘪𝘯𝘦-𝘛𝘶𝘯𝘪𝘯𝘨 𝘓𝘓𝘔𝘴 | [Fine-Tune MetaMath with LLaMA2 and LoRA](https://github.com/SuperBruceJia/MetaMath-Fine-Tune-with-LoRA) and <br> [The Trained LoRA models for inference on 🤗 Hugging Face](https://huggingface.co/shuyuej/metamath_lora_llama2_7b_3_epoch) |
 
 **City University of Hong Kong**:

@@ -12,10 +12,10 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 **Boston University**:
 - 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency))
 - 🔨 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
-- 𝐋𝐋𝐌 - [CoEvolve LLMs: Co-evolution of LLMs via Adversarial Learning](https://github.com/SuperBruceJia/Co-Evolve-LLMs)
-- 𝐋𝐋𝐌 - [Bi-Directional Chain-of-Thought (CoT) Prompting](https://github.com/SuperBruceJia/Bi-Directional-CoT)
-- 𝐋𝐋𝐌 - [Prompt Consistency (PC)](https://github.com/SuperBruceJia/PromptConsistency)
-- 𝐋𝐋𝐌 - [Fine-Tune MetaMath with LLaMA2 and LoRA](https://github.com/SuperBruceJia/MetaMath-Fine-Tune-with-LoRA) and [The Trained LoRA models for inference on 🤗 Hugging Face](https://huggingface.co/shuyuej/metamath_lora_llama2_7b_3_epoch)
+- 𝐋𝐋𝐌 - 𝘛𝘰𝘱𝘪𝘤: 𝘓𝘓𝘔𝘴 𝘌𝘷𝘰𝘭𝘶𝘵𝘪𝘰𝘯 𝘣𝘺 𝘈𝘥𝘷𝘦𝘳𝘴𝘢𝘳𝘪𝘢𝘭 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 - [CoEvolve LLMs: Co-evolution of LLMs via Adversarial Learning](https://github.com/SuperBruceJia/Co-Evolve-LLMs)
+- 𝐋𝐋𝐌 - 𝘛𝘰𝘱𝘪𝘤: 𝘉𝘪𝘥𝘪𝘳𝘦𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘊𝘰𝘛 - [Bi-Directional Chain-of-Thought (CoT) Prompting](https://github.com/SuperBruceJia/Bi-Directional-CoT)
+- 𝐋𝐋𝐌 - 𝘛𝘰𝘱𝘪𝘤: 𝘗𝘳𝘰𝘮𝘱𝘵 𝘊𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘤𝘺 𝘢𝘯𝘥 𝘚𝘦𝘭𝘧-𝘊𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘤𝘺 𝘰𝘧 𝘓𝘓𝘔𝘴 - [Prompt Consistency (PC)](https://github.com/SuperBruceJia/PromptConsistency)
+- 𝐋𝐋𝐌 - 𝘛𝘰𝘱𝘪𝘤: 𝘍𝘪𝘯𝘦-𝘛𝘶𝘯𝘪𝘯𝘨 𝘓𝘓𝘔𝘴 - [Fine-Tune MetaMath with LLaMA2 and LoRA](https://github.com/SuperBruceJia/MetaMath-Fine-Tune-with-LoRA) and [The Trained LoRA models for inference on 🤗 Hugging Face](https://huggingface.co/shuyuej/metamath_lora_llama2_7b_3_epoch)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Semantic Textual Similarity (STS)](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
 

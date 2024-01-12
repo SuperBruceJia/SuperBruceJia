@@ -25,6 +25,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
   | 𝗙𝗶𝗻𝗲-𝗧𝘂𝗻𝗶𝗻𝗴 𝗟𝗟𝗠𝘀 | [Fine-Tune LLaMA2 (7B) with LoRA Adapter on MetaMath](https://github.com/SuperBruceJia/MetaMath-Fine-Tune-with-LoRA)<br> and <br> [The Trained LoRA models for inference on 🤗 Hugging Face](https://huggingface.co/shuyuej/metamath_lora_llama2_7b_3_epoch) |
 
 ***Topic 2: AI for Medicine and Healthcare***:
+- 𝐎𝐧𝐥𝐢𝐧𝐞 𝐓𝐨𝐨𝐥 - [Online Medical Imaging Visualizer](https://shuyuej.com/Medical-Imaging-Visualizer/), based on [Papaya](https://github.com/rii-mango/Papaya)
 
 <br>
 

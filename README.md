@@ -1,9 +1,10 @@
 # What is the most surprising finding in your research?
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true">
-<img align="left" src="https://streak-stats.demolab.com/?user=SuperBruceJia&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=350">
+[![Shuyue's github activity graph](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true)](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true)
 
-[![Shuyue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true"> -->
+<!-- <img align="left" src="https://streak-stats.demolab.com/?user=SuperBruceJia&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=350"> -->
+<!-- [![Shuyue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true) -->
 
 ## Fast access to some projects
 Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), the trained models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej), and some of my applied research on Vision and Language will be developed as Web or Android/iOS mobile apps.

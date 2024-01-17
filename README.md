@@ -6,7 +6,7 @@
 <!-- <img align="left" src="https://streak-stats.demolab.com/?user=SuperBruceJia&theme=github&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=350"> -->
 <!-- [![Shuyue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true)](https://github-readme-activity-graph.vercel.app/graph?username=SuperBruceJia&hide_border=true&theme=github-compact&bg_color=white&hide_title=true) -->
 
-**P.S.:** Please reach out to [Shuyue Jia](https://github.com/SuperBruceJia) if you would be interested in supporting compute need. We are in need of some A100-80G GPUs at the moment, so any kind of help would be greatly appreciated. Thank you very much in advance!
+**P.S.:** Please reach out to [Shuyue Jia](https://github.com/SuperBruceJia) if you would be interested in supporting compute need. We are in need of some A100-80G GPUs to train 70B models at the moment, so any kind of help would be greatly appreciated. Thank you very much in advance!
 
 ## Fast access to some projects
 Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), the trained models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej), and some of my applied research on Vision and Language will be developed as Web or Android/iOS mobile apps.

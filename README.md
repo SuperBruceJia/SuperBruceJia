@@ -19,8 +19,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 - 🔨 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Semantic Textual Similarity (STS)](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
-- 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Diffusion Models (DM)](https://github.com/SuperBruceJia/Awesome-Diffusion-Models)
-
+  
   |       LLMs Research Topic       |                                       Description                                       |
   |:------------------------------:|:----------------------------------------------------------------------------------------:|
   | 𝗟𝗟𝗠𝘀 𝗘𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗯𝘆 𝗔𝗱𝘃𝗲𝗿𝘀𝗮𝗿𝗶𝗮𝗹 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 |   [CoEvolve LLMs: Co-Evolution of LLMs via Adversarial Learning](https://github.com/SuperBruceJia/Co-Evolve-LLMs) |

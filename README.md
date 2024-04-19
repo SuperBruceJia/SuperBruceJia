@@ -27,13 +27,13 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 
 <br>
 
-***𝗧𝗼𝗽𝗶𝗰 𝟮: 𝗠𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻 𝗠𝗼𝗱𝗲𝗹𝘀***:
+***𝗧𝗼𝗽𝗶𝗰 𝟮: 𝗠𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻 𝗠𝗼𝗱𝗲𝗹𝘀***: We will be deploying all our Multimodal Machine Learning Models on the following platform.
 - 🚀 𝐍𝐞𝐮𝐫𝐨𝐆𝐏𝐓 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 - [NeuroGPT (Currently Boston University Access Only)](http://manu.bumc.bu.edu:4000/main)
 
 <br>
 
 ***𝐓𝐨𝐩𝐢𝐜 𝟑: 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐈𝐦𝐚𝐠𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐀𝐈***:
-- 𝐎𝐧𝐥𝐢𝐧𝐞 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐈𝐦𝐚𝐠𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐞𝐫 - [Online Medical Imaging Visualizer (based on Papaya)](https://shuyuej.com/Medical-Imaging-Visualizer/)
+- 🖼️ 𝐎𝐧𝐥𝐢𝐧𝐞 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐈𝐦𝐚𝐠𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐞𝐫 - [Online Medical Imaging Visualizer (based on Papaya)](https://shuyuej.com/Medical-Imaging-Visualizer/)
 
 <br>
 

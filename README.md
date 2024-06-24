@@ -28,7 +28,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 <br>
 
 ***Topic 2: Multimodal Foundation Models***: We will be deploying all our Multimodal Machine Learning Models on the following platform.
-- 🚀 𝐍𝐞𝐮𝐫𝐨𝐆𝐏𝐓 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 - [NeuroGPT (Currently Boston University Access Only)](http://manu.bumc.bu.edu:4000/main)
+- 🚀 𝐍𝐞𝐮𝐫𝐨𝐆𝐏𝐓 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 - [NeuroGPT (Currently Authorized Users Access Only)](https://medpodgpt.org/)
 
 <br>
 

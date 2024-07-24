@@ -15,6 +15,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 ***Topic 1: Large Language Models (LLMs)***:
 - 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency))
 - 🔨 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
+- 🧰 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬 - [Quantized Large Language Models](https://huggingface.co/collections/shuyuej/quantization-669ea25d2ea444924e543da2)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Semantic Textual Similarity (STS)](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
   

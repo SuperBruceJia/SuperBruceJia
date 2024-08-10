@@ -30,7 +30,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 
 ***Topic 2: Multimodal Foundation Models***: We will be deploying all our Multimodal Machine Learning Models on the following platform.
 - 🚀 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 - [𝐌𝐞𝐝𝐏𝐨𝐝𝐆𝐏𝐓 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦](https://medpodgpt.org/) and our [**preprint**](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1) are available online!
-- 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Large Vision-Language Model (LVLM)](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model)
+- 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Large Vision-Language Model (LVLM/MM-LLM)](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model)
 
 <br>
 

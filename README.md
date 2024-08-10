@@ -10,7 +10,7 @@
 Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), the trained models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej), and some of my applied research on Vision and Language will be developed as Web or Android/iOS mobile apps.
 <be>
 
-**Boston University**:\
+**Boston University**: mostly Multimodal Foundation Models and Generative AI research\
 <br>
 ***Topic 1: Large Language Models (LLMs)***:
 - 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency))
@@ -38,16 +38,16 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 
 <br>
 
-**City University of Hong Kong**:
+**City University of Hong Kong**: mostly Computer Vision research
 - 𝐍𝐨𝐧-𝐥𝐨𝐜𝐚𝐥 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 - [Non-local Modeling for Image Quality Assessment](https://github.com/SuperBruceJia/NLNet-IQA)
 - 𝐍𝐨𝐧-𝐥𝐨𝐜𝐚𝐥 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 - [Context-aware Non-local Compensation for Image Quality Assessment](https://github.com/SuperBruceJia/CAIQUE-IQA)
 
-**Northeast Electric Power University**:
+**Northeast Electric Power University**: mostly Deep Learning research
 - 🔥 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 - [EEG Deep Learning Library](https://github.com/SuperBruceJia/EEG-DL)
 - 𝐒𝐜𝐨𝐮𝐭 𝐄𝐒𝐈 𝐚𝐧𝐝 𝐂𝐍𝐍 - [EEG Motor Imagery Signals Classification via CNN](https://github.com/SuperBruceJia/EEG-Motor-Imagery-Classification-CNNs-TensorFlow)
 - 𝐒𝐨𝐧𝐚𝐫 𝐈𝐦𝐚𝐠𝐞 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 - [Sonar Image Segmentation via Entropy Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)
 
-**Philips Research**:
+**Philips Research**: mostly Natural Language Processing research
 - [Medical Named Entity Recognition](https://github.com/SuperBruceJia/MedicalNER)
 - [Medical Concept Mapping](https://github.com/SuperBruceJia/Medical-Concept-Mapping)
 - [Deploy PyTorch NER Model with Flask and Docker as Web App](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp)

@@ -1,6 +1,7 @@
 # What is the most surprising finding in your research?
 - **MedPodGPT Research**: It is surprising to see that leveraging **medical podcast data** into **LLM** significantly boosts its ability to process medical information, making it an invaluable tool for education and research [[1](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1)].
-- **EEG Research**: By cooperating with the **functional topological relationship of electrodes**, the decoding performance of raw EEG signals is enhanced [[1](https://ieeexplore.ieee.org/document/9889159)].  
+- **Image Quality Assessment Research**: Mimicking the **long-dependency perception** of Human Visual System, the **Non-local Modeling** enhances image quality assessment [[1](https://ieeexplore.ieee.org/document/9950035)].
+- **EEG Research**: By cooperating with the **functional topological relationship of electrodes**, the decoding performance of raw EEG signals is improved [[1](https://ieeexplore.ieee.org/document/9889159)].
 
 [![Shuyue's github activity graph](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true)](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true)
 

@@ -56,12 +56,6 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 - 𝐒𝐜𝐨𝐮𝐭 𝐄𝐒𝐈 𝐚𝐧𝐝 𝐂𝐍𝐍 - [EEG Motor Imagery Signals Classification via CNN](https://github.com/SuperBruceJia/EEG-Motor-Imagery-Classification-CNNs-TensorFlow)
 - 𝐒𝐨𝐧𝐚𝐫 𝐈𝐦𝐚𝐠𝐞 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 - [Sonar Image Segmentation via Entropy Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)
 
-**Philips Research**: mostly Natural Language Processing research
-- [Medical Named Entity Recognition](https://github.com/SuperBruceJia/MedicalNER)
-- [Medical Concept Mapping](https://github.com/SuperBruceJia/Medical-Concept-Mapping)
-- [Deploy PyTorch NER Model with Flask and Docker as Web App](https://github.com/SuperBruceJia/pytorch-flask-deploy-webapp)
-- [Dynamic Webs Crawlering in Python](https://github.com/SuperBruceJia/dynamic-web-crawlering-python)
-
 **Others**:
 - [Download Papers through Terminal based on Sci-Hub](https://github.com/SuperBruceJia/Sci-Hub-Paper-Download-shell)
 - [Awesome Poster Presentation](https://github.com/SuperBruceJia/Poster_Template)

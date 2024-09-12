@@ -1,5 +1,5 @@
 # What is the most surprising finding in your research?
-- **MedPodGPT Research**: It is surprising to see that leveraging **medical podcast data** into **LLM** significantly boosts its ability to process medical information, making it an invaluable tool for education and research [[1](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1)].
+- **PodGPT Research**: It is surprising to see that leveraging **Podcasts** into **LLM** significantly boosts its ability to process medical information, making it an invaluable tool for education and research [[1](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1)].
 - **Image Quality Assessment Research**: Mimicking the **long-dependency perception** of Human Visual System, the **Non-local Modeling** enhances image quality assessment [[1](https://ieeexplore.ieee.org/document/9950035)].
 - **EEG Research**: By cooperating with the **functional topological relationship of electrodes**, the decoding performance of raw EEG signals is improved [[1](https://ieeexplore.ieee.org/document/9889159), [2](https://www.frontiersin.org/article/10.3389/fbioe.2021.706229)].
 
@@ -31,8 +31,8 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 
 <br>
 
-***Topic 2: Large Multimodal Models (LMMs/MM-LLMs)***: We will be deploying all our Multimodal Foundation Models on our MedPodGPT platform.
-- 🚀 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 - [𝐌𝐞𝐝𝐏𝐨𝐝𝐆𝐏𝐓 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦](https://medpodgpt.org/) and our [**preprint**](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1) are available online!
+***Topic 2: Large Multimodal Models (LMMs/MM-LLMs)***: We will be deploying all our Multimodal Foundation Models on our PodGPT platform.
+- 🚀 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 - [𝐏𝐨𝐝𝐆𝐏𝐓 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦](https://podgpt.org/) and our [**preprint**](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1) are available online!
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Large Vision-Language Model (LVLM/MM-LLM)](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model)
 
 <br>

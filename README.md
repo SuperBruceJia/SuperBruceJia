@@ -1,5 +1,5 @@
 # What is the most surprising finding in your research?
-- **PodGPT Research**: It is surprising to see that leveraging **Podcasts** into **LLM** significantly boosts its ability to process medical information, making it an invaluable tool for education and research [[1](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1)].
+- **PodGPT Research**: It is surprising to see that leveraging **Podcasts** into **LLM** significantly boosts its ability to process medical information, making it an invaluable tool for education and research [[1](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1)]. **Collaborators**: [Subhrangshu Bit](https://subhrangshubit.github.io/) and [Edward Searls](https://github.com/nsearls-bu).
 - **Image Quality Assessment Research**: Mimicking the **long-dependency perception** of Human Visual System, the **Non-local Modeling** enhances image quality assessment [[1](https://ieeexplore.ieee.org/document/9950035)].
 - **EEG Research**: By cooperating with the **functional topological relationship of electrodes**, the decoding performance of raw EEG signals is improved [[1](https://ieeexplore.ieee.org/document/9889159), [2](https://www.frontiersin.org/article/10.3389/fbioe.2021.706229)].
 

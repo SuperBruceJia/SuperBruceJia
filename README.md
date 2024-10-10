@@ -51,7 +51,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 **Northeast Electric Power University**: mostly Deep Learning research
 - 🔥 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 - [EEG Deep Learning Library](https://github.com/SuperBruceJia/EEG-DL)
 - 𝐒𝐜𝐨𝐮𝐭 𝐄𝐒𝐈 𝐚𝐧𝐝 𝐂𝐍𝐍 - [EEG Motor Imagery Signals Classification via CNN](https://github.com/SuperBruceJia/EEG-Motor-Imagery-Classification-CNNs-TensorFlow)
-- 𝐒𝐨𝐧𝐚𝐫 𝐈𝐦𝐚𝐠𝐞 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 - [Sonar Image Segmentation via Entropy Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)
+- 𝐒𝐨𝐧𝐚𝐫 𝐈𝐦𝐚𝐠𝐞 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 - [Sonar Image Segmentation via Entropy Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method) → [𝗣𝗮𝘁𝗲𝗻𝘁](https://patents.google.com/patent/CN112164079A/en)
 
 **Others**:
 - [Download Papers through Terminal based on Sci-Hub](https://github.com/SuperBruceJia/Sci-Hub-Paper-Download-shell)

@@ -51,4 +51,3 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 - [Awesome Poster Presentation](https://github.com/SuperBruceJia/Poster_Template)
 - [CVPR LaTeX Template](https://github.com/SuperBruceJia/CVPR-LaTeX-Paper-Template)
 - [Download Google Scholar Citation Papers](https://github.com/SuperBruceJia/Google-Scholar-Citations-Download)
-- [Python Programming Standards (Tencent, in Chinese)](https://github.com/SuperBruceJia/paper-reading/tree/master/Programming-Standards/python)

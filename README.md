@@ -33,7 +33,8 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 <br>
 
 ***Topic 4: Medical Imaging with AI***:
-- 🖼️ 𝐎𝐧𝐥𝐢𝐧𝐞 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐈𝐦𝐚𝐠𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐞𝐫 - [Online Medical Imaging Visualizer (based on Papaya)](https://shuyuej.com/Medical-Imaging-Visualizer/)
+- 🖼️ 𝐎𝐧𝐥𝐢𝐧𝐞 𝐌𝐑𝐈 𝐈𝐦𝐚𝐠𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐞𝐫 - [Online MRI Imaging Visualizer (based on Papaya)](https://shuyuej.com/MRI-Online-Visualizer)
+- 🖼️ 𝐎𝐧𝐥𝐢𝐧𝐞 𝐂𝐓 𝐒𝐜𝐚𝐧 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐞𝐫 - [Online CT Scan Visualizer (based on Papaya)](https://shuyuej.com/Medical-Imaging-Visualizer)
 
 <br>
 

@@ -17,6 +17,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 - 🧰 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬 - [Quantized Large Language Models](https://huggingface.co/collections/shuyuej/quantization-669ea25d2ea444924e543da2) (available on 🤗 [Hugging Face](https://huggingface.co/collections/shuyuej/quantization-669ea25d2ea444924e543da2))
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Semantic Textual Similarity (STS)](https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity)
+- 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Text Generation Evaluation](https://github.com/SuperBruceJia/Awesome-Text-Generation-Evaluation)
 
 <br>
 

@@ -3,7 +3,7 @@
 - **Image Quality Assessment Research**: Mimicking the **long-dependency perception** of Human Visual System, the **Non-local Modeling** enhances image quality assessment [[1](https://ieeexplore.ieee.org/document/9950035)].
 - **EEG Research**: By cooperating with the **functional topological relationship of electrodes**, the decoding performance of raw EEG signals is improved [[1](https://ieeexplore.ieee.org/document/9889159), [2](https://www.frontiersin.org/article/10.3389/fbioe.2021.706229)].
 
-  [![Shuyue's github activity graph](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true)](https://github-readme-stats.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true)
+  [![Shuyue's github activity graph](https://github-readme-stats-3kuf-git-master-superbrucejias-projects.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true)](https://github-readme-stats-3kuf-git-master-superbrucejias-projects.vercel.app/api?username=SuperBruceJia&count_private=true&show_icons=true&theme=flag-india&hide_border=true&line_height=32&card_width=350&hide_title=true)
 
 ## Fast access to some projects
 Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), the trained models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej), and some of my applied research on Vision and Language will be developed as Web or Android/iOS mobile apps.

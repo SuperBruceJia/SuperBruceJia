@@ -9,7 +9,7 @@
 Source codes of all my works will be shared on [GitHub](https://github.com/SuperBruceJia), the trained models and datasets will be released on 🤗 [Hugging Face](https://huggingface.co/shuyuej), and some of my applied research on Vision and Language will be developed as Web or Android/iOS mobile apps.
 <be>
 
-**Boston University**: mostly Multimodal Foundation Models and Generative AI research\
+**Boston University**: Multimodal Foundation Models (Large Vision-language Models), Large Language Models, Medical Imaging, and Generative AI research\
 <br>
 ***Topic 1: Large Language Models (LLMs)***:
 - 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency))

@@ -1,4 +1,4 @@
-# What societal impact can top multidisciplinary/AI scientists have?
+# What impact can a TEAM of top multidisciplinary/AI scientists have?
 # What kinds of value can we researchers bring to the society?
 # What is the most surprising finding in your research?
 - **PodGPT Research**: It is surprising to see that leveraging **Podcasts** into **Large Language Models (LLMs)** significantly boosts its ability to process medical information, making it an invaluable tool for education and research [[1](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1), [2](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v2)].

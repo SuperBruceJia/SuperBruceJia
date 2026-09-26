@@ -15,6 +15,7 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 **Boston University**: Multimodal Foundation Models (Large Vision-language Models), Large Language Models, Medical Imaging, and Generative AI research\
 <br>
 ***Topic 1: Large Language Models (LLMs)***:
+- 🚀 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 - [𝐏𝐨𝐝𝐆𝐏𝐓 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦](https://podgpt.org/) and our [**preprint**](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1) are available online!
 - 🔥 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - [GSM8K-Consistency Benchmark](https://github.com/SuperBruceJia/GSM8K-Consistency) (available on 🤗 [Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency))
 - 🔨 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 - [PromptCraft: A Prompt Perturbation Toolkit](https://github.com/SuperBruceJia/promptcraft) and the released [PyPI Package](https://pypi.org/project/promptcraft)
 - 🧰 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬 - [Quantized Large Language Models](https://huggingface.co/collections/shuyuej/quantization-669ea25d2ea444924e543da2) (available on 🤗 [Hugging Face](https://huggingface.co/collections/shuyuej/quantization-669ea25d2ea444924e543da2))
@@ -24,19 +25,14 @@ Source codes of all my works will be shared on [GitHub](https://github.com/Super
 
 <br>
 
-***Topic 2: Large Multimodal Models (LMMs/MM-LLMs)***: We will gradually deploy all our Multimodal Foundation Models on our **PodGPT** platform.
-- 🚀 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 - [𝐏𝐨𝐝𝐆𝐏𝐓 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦](https://podgpt.org/) and our [**preprint**](https://www.medrxiv.org/content/10.1101/2024.07.11.24310304v1) are available online!
+***Topic 2: Large Vision-language Models (LVLMs)***: We will gradually deploy all our Vision-language Foundation Models on our **ReMIND** platform.
+- 🚀 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 - [𝐑𝐞𝐌𝐈𝐍𝐃 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦](https://remind.bu.edu/) and our [**preprint**](https://www.medrxiv.org/content/10.64898/2026.03.30.26349106) are available online!
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Large Vision-Language Model (LVLM/MM-LLM)](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model)
 - 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Mixture of Experts (MoE)](https://github.com/SuperBruceJia/Awesome-Mixture-of-Experts)
 
 <br>
 
-***Topic 3: Evidence-based Medicine (EBM)***:
-- 📚 𝐏𝐚𝐩𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐲 - [Awesome Evidence-based Medicine](https://github.com/SuperBruceJia/Awesome-Evidence-based-Medicine)
-
-<br>
-
-***Topic 4: Medical Imaging with AI***:
+***Topic 3: Medical Imaging with AI***:
 - 🖼️ 𝐎𝐧𝐥𝐢𝐧𝐞 𝐌𝐑𝐈 𝐈𝐦𝐚𝐠𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐞𝐫 - [Online MRI Imaging Visualizer (based on Papaya)](https://shuyuej.com/MRI-Online-Visualizer)
 - 🖼️ 𝐎𝐧𝐥𝐢𝐧𝐞 𝐂𝐓 𝐒𝐜𝐚𝐧 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐞𝐫 - [Online CT Scan Visualizer (based on Papaya)](https://shuyuej.com/Medical-Imaging-Visualizer)
 
